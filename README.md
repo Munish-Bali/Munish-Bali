@@ -1,4 +1,4 @@
-![logo](https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)
+![logo](https://i0.wp.com/rerouting.ca/wp-content/uploads/2021/03/Simple-Technology-LinkedIn-Banner.png?w=1584&ssl=1)
 
 <h1 align="center">Hi 👋, I'm Munish Bali</h1>
 <h3 align="center">A passionate Software developer from India currently in Canada.</h3>
