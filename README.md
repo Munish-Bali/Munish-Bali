@@ -1,3 +1,5 @@
+![logo](https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=996&t=st=1704417495~exp=1704418095~hmac=3ea0b1ed6956622037fce582e9da92dd6fb6f25b421eedcee2ff63e85720a3ed)
+
 <h1 align="center">Hi 👋, I'm Munish Bali</h1>
 <h3 align="center">A passionate Software developer from India currently in Canada.</h3>
 
