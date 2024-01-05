@@ -1,4 +1,4 @@
-![logo](https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)
+![logo](https://cdn.vectorstock.com/i/preview-1x/20/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)
 
 <h1 align="center">Hi 👋, I'm Munish Bali</h1>
 <h3 align="center">A passionate Software developer from India currently in Canada.</h3>
